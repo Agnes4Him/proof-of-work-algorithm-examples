@@ -1,0 +1,15 @@
+{
+  "name": "js-proof-of-work-algorithm",
+  "version": "1.0.0",
+  "description": "proof of work algorith in javaScript",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Agnes",
+  "license": "ISC",
+  "dependencies": {
+    "big-integer": "^1.6.51",
+    "crypto": "^1.0.1"
+  }
+}
